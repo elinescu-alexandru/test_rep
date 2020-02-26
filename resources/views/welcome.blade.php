@@ -83,7 +83,7 @@
                 <div class="title m-b-md">
                     Laravel develop feature 1.0
                 </div>
-                <h2>Modificari din feature 1.1</h2>
+                <h2>Develop</h2>
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
