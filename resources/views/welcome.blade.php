@@ -81,9 +81,9 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel develop feature 1.1
+                    Laravel develop feature 1.0
                 </div>
-                <h1>Din feature</h1>
+                <h2>Push catre develop</h2>
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
