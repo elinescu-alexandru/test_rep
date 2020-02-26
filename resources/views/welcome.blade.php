@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel develop
+                    Laravel develop feature
                 </div>
 
                 <div class="links">
